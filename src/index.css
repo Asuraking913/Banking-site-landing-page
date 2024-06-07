@@ -63,3 +63,9 @@
 .roboto {
     font-size: "roboto";
 }
+
+@media screen and (max-width: 450px) {
+    .HeadMedia1 {
+        height: 80vh;
+    }
+}

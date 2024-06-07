@@ -127,7 +127,7 @@ function Body1() {
 
   return (
     <article>
-        <section className='h-screen flex p-[2em] sm:p-0 sm:pl-[4em]'>
+        <section className='h-screen media1 flex p-[2em] sm:p-0 sm:pl-[4em]'>
             <a href="" className='poppins flex items-center justify-center gap-[0.5em] font-bold capitalize absolute p-[0.7em] sm:p-[1em] px-[1.5em] boxSha rounded-[2em] top-[83%] right-[7%] sm:right-[42%] sm:top-[20%]'><i className='fa-solid fa-car-side text-pink-600 text-2xl'></i>Car loans</a>
             <a href="" className='poppins flex items-center justify-center gap-[0.5em] font-bold capitalize absolute p-[0.7em] sm:p-[1em] px-[1.5em] boxSha rounded-[2em] right-[7%] top-[22%] sm:right-[3%] sm:top-[43%]'><i className='fa-solid fa-house text-pink-600 text-2xl'></i>Home loans</a>
             <div className='w-full h-[100%]  sm:mt-0 mt-[6em] gap-[2.5em] sm:gap-[1.5em] flex flex-col sm:items-start sm:justify-center'>
