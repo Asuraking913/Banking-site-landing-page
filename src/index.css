@@ -64,8 +64,72 @@
     font-size: "roboto";
 }
 
-@media screen and (max-width: 450px) {
-    .HeadMedia1 {
-        height: 80vh;
+@media screen and (min-width: 300px) {
+
+    .screen1 {
+        height: 100vh;
+    }
+
+    .screen2 {
+        height: 90vh;
+        padding-top: -4em;
+    }
+
+    .screen3 {
+        height: 30vh;
+
+    }
+
+    .screen4 {
+        height: 60vh;
+    }
+
+    .screen5 {
+        height: 40vh;
+    }
+
+    .bottom1 {
+        bottom: 30%;
+    }
+
+    .top1 {
+        top: 65%;
+    }
+
+    .pad1 {
+        padding: 1em 1em;
+    }
+}
+
+@media screen and (min-width: 400px) {
+
+    .screen1 {
+        height: 100vh;
+    }
+
+    .screen2 {
+        height: 110vh;
+        padding-top: -4em;
+    }
+
+    .screen21 {
+        height: 85vh;
+        padding-top: -4em
+    }
+    
+    .screen4 {
+        height: 70vh;
+    }
+
+    .bottom1 {
+        bottom: 30%;
+    }
+
+    .top1 {
+        top: 65%;
+    }
+
+    .pad1 {
+        padding: 1em .5em;
     }
 }
